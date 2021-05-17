@@ -1,0 +1,12 @@
+.PostInList {
+    border-bottom: 1px solid black;
+}
+
+.PostListTitle {
+    font-size: 24px;
+    margin: 8px;
+}
+
+.PostListThought {
+    margin: 4px;
+}
